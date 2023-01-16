@@ -1,11 +1,17 @@
 @import url('https://fonts.googleapis.com/css2?family=Alata&display=swap');
 
-h1,h2 {
+h1 {
     font-family: Alata, sans-serif;
     text-align: center;
     color: #2359c4;
 }
+h2 {
+    font-family: Alata, sans-serif;
+    text-align: center;
+    color:#2359c4;
+    font-size: 95%;
 
+}
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center
@@ -15,4 +21,10 @@ li {
     text-align: center;
     list-style-type: none;
     color: #5123c4;
+    margin-right: 20px;
+}
+#canon-camera {
+    height: 550px;
+    width: 100%;
+    background: url('../images/canon-camera.jpg') no-repeat center center;
 }
