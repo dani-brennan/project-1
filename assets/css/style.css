@@ -17,12 +17,22 @@ body {
     text-align: center
 }
 
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+
+}
 li {
     text-align: center;
-    list-style-type: none;
     color: #5123c4;
-    margin-right: 20px;
+    float: left;
 }
+li a {
+    display: block;
+}
+
 #canon-camera {
     height: 550px;
     width: 100%;
