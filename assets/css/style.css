@@ -26,30 +26,32 @@ h2 {
 
  /* navigation menu styles */
 #main-menu {
-    font-size: 115%;
-    letter-spacing: 2px;
+    font-size: 155%;
+    letter-spacing: 7px;
 }
 ul {
-    background-color: rgb(248, 248, 248);
+    background-color: rgb(43, 43, 43);
 }
 #main-menu li {
-    font-weight: bold;
     font-family: Alata, sans-serif;
     float: left;
     list-style-type: none;
     margin-right: 30px;
-    margin-right: 30px;
+    margin-left: 30px;
     text-decoration: none;
 }
+
+}
 #logo {
-    Font-family: Alata, sans-serif;
+    font-family: Alata, sans-serif;
+    color: white;
     float: center;
     margin-left: 0px;
-    background-color:rgb(6, 134, 49);
+    background-color:rgb(21, 128, 0);
 
 }
 a {
-    color:rgb(29, 29, 29);
+    color:rgb(44, 44, 44);
 }
 
 a:link { 
@@ -62,6 +64,7 @@ a:visited {
 
 a:hover { 
     text-decoration: underline; 
+    color:#11752f;
 }
 
 a:active { 
@@ -70,15 +73,16 @@ a:active {
 
 
 #canon-camera {
-    height: 550px;
+    height: 450px;
     width: 100%;
     background: url('../images/canon-camera.jpg') no-repeat center center;
 }
 
 button {
-    background-color:#2359c4;
-    border: none;
+    background-color:#7ee096;
+    display: inline-block;
+    border-style: inset;
+    padding: 7px 10px;
     text-align: center;
     text-decoration: none;
-
 }
