@@ -28,3 +28,10 @@ li {
     width: 100%;
     background: url('../images/canon-camera.jpg') no-repeat center center;
 }
+
+button {
+    background-color:#2359c4;
+    border: none;
+    text-align: center;
+
+}
