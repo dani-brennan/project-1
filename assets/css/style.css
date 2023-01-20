@@ -25,16 +25,38 @@ h2 {
 }
 
 #main-menu {
-    font-size: 120%;
-    letter-spacing: 3px;
+    font-size: 140%;
+    letter-spacing: 2px;
 }
 
 #main-menu li {
+    font-weight: bold;
+    font-family: Alata, sans-serif;
     float: right;
     list-style-type: none;
-    margin-right: 20px;
-    background-color:aqua;
+    margin-right: 30px;
     text-decoration: none;
+}
+#logo {
+    Font-family: Alata, sans-serif;
+    float: left;
+    margin-left: 30px;
+
+}
+a:link { 
+    text-decoration: none; 
+}
+
+a:visited { 
+    text-decoration: none; 
+}
+
+a:hover { 
+    text-decoration: none; 
+}
+
+a:active { 
+    text-decoration: none; 
 }
 
 
