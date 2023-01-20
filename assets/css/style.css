@@ -1,5 +1,17 @@
 @import url('https://fonts.googleapis.com/css2?family=Alata&display=swap');
 
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color:black;
+}
+
 h1 {
     font-family: Alata, sans-serif;
     text-align: center;
@@ -10,28 +22,22 @@ h2 {
     text-align: center;
     color:#2359c4;
     font-size: 95%;
-
-}
-body {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    text-align: center
 }
 
-ul {
+#main-menu {
+    font-size: 120%;
+    letter-spacing: 3px;
+}
+
+#main-menu li {
+    float: right;
     list-style-type: none;
-    padding: 0;
-    margin: 0;
-    overflow: hidden;
+    margin-right: 20px;
+    background-color:aqua;
+    text-decoration: none;
+}
 
-}
-li {
-    text-align: center;
-    color: #5123c4;
-    float: left;
-}
-li a {
-    display: block;
-}
+
 
 #canon-camera {
     height: 550px;
@@ -43,5 +49,6 @@ button {
     background-color:#2359c4;
     border: none;
     text-align: center;
+    text-decoration: none;
 
 }
