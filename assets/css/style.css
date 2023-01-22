@@ -44,7 +44,6 @@ ul {
     text-decoration: none;
 }
 
-}
 #logo {
     font-family: Alata, sans-serif;
     color: white;
@@ -53,6 +52,46 @@ ul {
     background-color:rgb(21, 128, 0);
 
 }
+
+/* photography lessons */
+
+#lessons-introduction {
+    width: 100%;
+    background-color: azure;
+    color:#2c2c2c;
+    margin-top: 30px;
+
+}
+
+#photography-lessons {
+    height: 400px;
+
+}
+#landscape {
+    width: 33%;
+    float: left;
+    margin-top: 40px;
+    background-color: #2c2c2c;
+    color:aliceblue;
+
+}
+
+#portrait {
+    width: 33%;
+    float: right;
+    margin-top: 40px;
+    background-color: #2c2c2c;
+    color:aliceblue;
+}
+
+#object {
+    width: 33%;
+    margin: 0 auto;
+    margin-top: 40px;
+    background-color: #2c2c2c;
+    color:aliceblue;
+}
+
 a {
     color:rgb(44, 44, 44);
 }
