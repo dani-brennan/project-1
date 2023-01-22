@@ -25,15 +25,17 @@ h2, h3 {
 }
 
  /* navigation menu styles */
+
 #main-menu {
-    font-size: 155%;
+    font-size: 145%;
     letter-spacing: 7px;
-    background-color:black;
+    background-color: #000000;
+    color:#067a23;
+    
 }
 ul {
     font-family: Alata, sans-serif;
     background-color: rgb(43, 43, 43);
-    color: white;
 }
 #main-menu li {
     font-family: Alata, sans-serif;
@@ -43,6 +45,7 @@ ul {
     margin-left: 30px;
     margin-bottom: 15px;
     text-decoration: none;
+    
 }
 
 #logo {
@@ -58,59 +61,65 @@ ul {
 
 #lessons-introduction {
     width: 70%;
-    background-color: azure;
+    background-color: rgb(255, 255, 255);
     color:#2c2c2c;
     margin-top: 10px;
-    margin-left: 30px;
-    margin-bottom: 10px;
+    margin-bottom: 30px;
     text-align: center;
     display: inline-block;
-    
-    
 }
 
 #photography-lessons {
-    height: 400px;
+    height: 450px;
     text-align: center;
-    background-color: #2c2c2c;
+    background-color: #fdfdfd;
+    color: black
 
 }
 #landscape {
-    width: 25%;
+    width: 33%;
     height: 400px;
-    float: left;
     margin-top: 5px;
     margin-bottom: 5px;
     background-color: #2c2c2c;
     background: url('../images/landscape-waterfall.jpg') no-repeat center center;
-    color:aliceblue;
-    display: inline-block;
+    color:#000000;
+    float: left;
 }
 
 #portrait {
-    width: 25%;
+    width: 33%;
     height: 400px;
-    float: right;
     margin-top: 5px;
     margin-bottom: 5px;
     background-color: #2c2c2c;
     background: url('../images/cat-portrait.jpg') no-repeat center center;
-    color:aliceblue;
-    display: inline-block;
+    color:#000000;
+    float: right;
 }
 
 #object {
-    width: 25%;
+    width: 33%;
     height: 400px;
     margin: 0 auto;
     margin-top: 5px;
     margin-bottom: 5px;
     background-color: #2c2c2c;
     background: url('../images/bowl-of-apples-with-flowers.jpg') no-repeat center center;
-    color:aliceblue;
+    color: #000000;
     display: inline-block;
 }
 
+our-team {
+    max-height: 200px;
+    max-width: 70%;
+}
+
+photographer-1 {
+    width: 80px;
+    height: 80px;
+    background-color: #067a23;
+}
 a {
     color:rgb(44, 44, 44);
 }
