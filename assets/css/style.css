@@ -77,35 +77,47 @@ ul {
 
 }
 #landscape {
-    width: 33%;
+    width: 24%;
     height: 400px;
     margin-top: 5px;
     margin-bottom: 5px;
     background-color: #2c2c2c;
     background: url('../images/landscape-waterfall.jpg') no-repeat center center;
     color:#000000;
-    float: left;
+    display: inline-block;
 }
 
 #portrait {
-    width: 33%;
+    width: 24%;
     height: 400px;
     margin-top: 5px;
     margin-bottom: 5px;
     background-color: #2c2c2c;
     background: url('../images/cat-portrait.jpg') no-repeat center center;
     color:#000000;
-    float: right;
+    display: inline-block;
 }
 
-#object {
-    width: 33%;
+#product {
+    width: 24%;
     height: 400px;
     margin: 0 auto;
     margin-top: 5px;
     margin-bottom: 5px;
     background-color: #2c2c2c;
     background: url('../images/bowl-of-apples-with-flowers.jpg') no-repeat center center;
+    color: #000000;
+    display: inline-block;
+}
+
+#street {
+    width: 24%;
+    height: 400px;
+    margin: 0 auto;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    background-color: #2c2c2c;
+    background: url('../images/street.jpg') no-repeat center center;
     color: #000000;
     display: inline-block;
 }
