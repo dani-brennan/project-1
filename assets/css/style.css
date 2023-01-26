@@ -9,7 +9,7 @@
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
-    color:black;
+    color:rgb(240, 240, 240);
 }
 
 h1 {
@@ -29,13 +29,12 @@ h2, h3 {
 #main-menu {
     font-size: 145%;
     letter-spacing: 7px;
-    background-color: #000000;
-    color:#067a23;
+    background-color: #ffffff;
     
 }
 ul {
     font-family: Alata, sans-serif;
-    background-color: rgb(43, 43, 43);
+    background-color: rgb(255, 255, 255);
 }
 #main-menu li {
     font-family: Alata, sans-serif;
@@ -45,6 +44,7 @@ ul {
     margin-left: 30px;
     margin-bottom: 15px;
     text-decoration: none;
+    color:rgb(240, 240, 240);
     
 }
 
@@ -53,7 +53,7 @@ ul {
     color: white;
     float: center;
     margin-left: 0px;
-    background-color:rgb(21, 128, 0);
+    background-color:rgb(0, 0, 0);
 
 }
 
@@ -61,8 +61,8 @@ ul {
 
 #lessons-introduction {
     width: 70%;
-    background-color: rgb(255, 255, 255);
-    color:#2c2c2c;
+    background-color: rgb(14, 14, 14);
+    color:#ffffff;
     margin-top: 10px;
     margin-bottom: 30px;
     text-align: center;
@@ -70,9 +70,9 @@ ul {
 }
 
 #photography-lessons {
-    height: 450px;
+    height: 350px;
     text-align: center;
-    background-color: #fdfdfd;
+    background-color: #000000;
     color: black
 
 }
@@ -81,10 +81,11 @@ ul {
     height: 400px;
     margin-top: 5px;
     margin-bottom: 5px;
-    background-color: #2c2c2c;
+    background-color: #141414;
     background: url('../images/landscape-waterfall.jpg') no-repeat center center;
-    color:#000000;
+    color:#ffffff;
     display: inline-block;
+    background-size: contain;
 }
 
 #portrait {
@@ -93,9 +94,10 @@ ul {
     margin-top: 5px;
     margin-bottom: 5px;
     background-color: #2c2c2c;
-    background: url('../images/cat-portrait.jpg') no-repeat center center;
-    color:#000000;
+    background: url('../images/portrait.png') no-repeat center center;
+    color:#ffffff;
     display: inline-block;
+    background-size: contain;
 }
 
 #product {
@@ -105,9 +107,10 @@ ul {
     margin-top: 5px;
     margin-bottom: 5px;
     background-color: #2c2c2c;
-    background: url('../images/bowl-of-apples-with-flowers.jpg') no-repeat center center;
-    color: #000000;
+    background: url('../images/product-strawberries.jpg') no-repeat center center;
+    color: #ffffff;
     display: inline-block;
+    background-size: contain;
 }
 
 #street {
@@ -118,8 +121,9 @@ ul {
     margin-bottom: 5px;
     background-color: #2c2c2c;
     background: url('../images/street.jpg') no-repeat center center;
-    color: #000000;
+    color: #ffffff;
     display: inline-block;
+    background-size: contain;
 }
 
 our-team {
@@ -133,7 +137,7 @@ photographer-1 {
     background-color: #067a23;
 }
 a {
-    color:rgb(44, 44, 44);
+    color:rgb(255, 255, 255);
 }
 
 a:link { 
@@ -175,4 +179,8 @@ button a {
 button a:hover {
     color:black;
     text-decoration: none;
+}
+
+html {
+    background-color: #0f0f0f;
 }
