@@ -19,18 +19,54 @@
              <ul> 
                  <li><a href ="index.html"><i class="fa-solid fa-house"></i>Home</a></li>
                  <li><a href ="competitions.html">Competitions</a></li>
-                 <li><a href ="courses.html"></i>Courses</a></li>
+                 <li><a href ="lessons.html"></i>Lessons</a></li>
                  <li style="float:right"><a class ="active" href ="contact.html">Contact</a></li>
             </ul>
         </nav> 
-    </header>   
-
-    <section>
-        <h2>Get in Contact</h2>
-        <p>If you have any questions about our lessons please use our contact form 
-            and we will get back to you as soon as we can.</p>
+    </header> 
+    <section id="contact-info">
+    <ul>
+        <li>Phone Number: 053 1234567</li>
+        <li>Email: info@ceamara.ie</li>
+        <li>Our Location: google maps</li>
+    </ul>
     </section>
-  
+    <section id="contact-form">
+        <h2>Get in Contact</h2>
+        <p>If you have any questions please use our contact form below 
+            and we will get back to you as soon as we can.</p>
+         <form>
+            <form action="#" method="post">
+                <label for="fname">First Name</label>
+                <input type="text" id="fname" name="first-name" required>
+    
+                <label for="lname">Last Name</label>
+                <input type="text" id="lname" name="last-name" required>
+
+                <label for="query-type">Query type</label>
+                
+                <select name="query-type" id="query-type">
+                <option value="lessons" id="lessons" name="lessons">Lessons</option>
+                <option value="competitions" id="competitions" name="competitions">Competitions</option>
+                <option value="equipment-rental" id="equipment-rental" name="equipment-rental">Equipment Rental</option>
+                <option value="other" id="other" name="other">Other</option>
+            </select>
+                
+                <label for="query">How can we help you?</label>
+                <input type="text" id="query" name="query" required>
+
+                <button type="submit" value="submit">Submit</button>
+                <input type="reset" value="Reset form"> 
+                   
+               </form>
+         </form>  
+    </section>
+    
+    <section>
+        <h2>Competitions</h2>
+        <p>Don't forget to enter our monthly competition to win a one to one lesson with one of our photographers!</p>
+        <button><a href ="competitions.html">Click Here</a></button>
+    </section>
     <br>
     <footer>
         <section id="social-media">
