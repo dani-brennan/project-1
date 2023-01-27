@@ -121,7 +121,7 @@ ul {
     display: inline-block;
 }
 
-#photography-lessons {
+#gallery {
     width: 100%;
     height: 380px;
     text-align: center;
@@ -129,6 +129,34 @@ ul {
     background-color:#000000;
 
 }
+
+#lessons-details {
+    width: 50%;
+    text-align: center;
+    display: inline-block;
+}
+#skill-levels {
+    float: left;
+    display: inline-block;
+    width: 40%;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#equipment-knowledge {
+    float:right;
+    display: inline-block;
+    width: 40%;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#skill-levels li {
+    list-style: none;
+}
+#equipment-knowledge li {
+    list-style: none;
+}
+
+
 #landscape {
     width: 24%;
     height: 300px;
@@ -140,7 +168,7 @@ ul {
     display: inline-block;
     background-size: contain;
     text-shadow: 2px 2px #424242;
-    border-radius: 45px;
+   
 }
 
 #portrait {
@@ -154,7 +182,7 @@ ul {
     display: inline-block;
     background-size: contain;
     text-shadow: 2px 2px #424242;
-    border-radius: 45px;
+    
 }
 
 #product {
@@ -169,7 +197,7 @@ ul {
     display: inline-block;
     background-size: contain;
     text-shadow: 2px 2px #424242;
-    border-radius: 45px;
+    
 }
 
 #street {
@@ -184,7 +212,6 @@ ul {
     display: inline-block;
     background-size: contain;
     text-shadow: 2px 2px #424242;
-    border-radius: 45px;
 }
 
 #our-team {
@@ -251,7 +278,7 @@ a:hover {
 }
 
 a:active { 
-    text-decoration: none; 
+    text-decoration: underline; 
 }
 
 /* images */
@@ -268,7 +295,6 @@ a:active {
     background-size: cover;
 }
 
-}
 button {
     background-color:#067a23;
     display: inline-block;
@@ -311,3 +337,4 @@ footer ul li {
 html {
     background-color: #0f0f0f;
 }
+
