@@ -104,11 +104,23 @@ ul {
 }
 
 #map-location {
-    float: right;
     width: 50%;
     display: inline-block;
 }
 
+/* competitions page */
+#competitions {
+    display: inline-block;
+    text-align: center;
+    width: 70%;
+}
+
+#competitions-form {
+    border: 5px 7px;
+    width: 70%;
+
+
+}
 /* photography lessons */
 
 #lessons-introduction {
@@ -138,14 +150,12 @@ ul {
     display: inline-block;
 }
 #skill-levels {
-    float: left;
     display: inline-block;
     width: 40%;
     margin-left: 20px;
     margin-right: 20px;
 }
 #equipment-knowledge {
-    float:right;
     display: inline-block;
     width: 40%;
     margin-left: 20px;
@@ -342,9 +352,44 @@ footer ul li {
     text-align: center;
     letter-spacing: 10px;
     border-top: 5px 5px;
-
-
 }
+/* form inputs */
+
+input[type=text], select {
+    display: inline-block;
+    width: 20%;
+    padding: 8px 10px;
+    margin: 10px 0;
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 3px;
+    box-sizing: border-box;
+  }
+
+input[type=email] {
+    width: 20%;
+    padding: 8px 10px;
+    margin: 10px 0;
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 3px;
+    box-sizing: border-box;
+}
+input[type=submit] {
+    display: inline-block;
+    width: 30%;
+    color: #000000;
+    padding: 8px 10px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+  }
+  input[type=file] {
+    width: 20%;
+    text-align: center;
+    color: #ffffff;
+    border: none;
+  }
+
+
 html {
     background-color: #0f0f0f;
 }
