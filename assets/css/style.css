@@ -62,23 +62,25 @@ ul {
     background: url('../images/photographer-woman.jpg') no-repeat center center;
 }
 #contact-info {
-    font-size: 120%;
+    font-size: 110%;
     color: rgb(255, 255, 255);
-    width: 70%;
-    display: inline-block;
+    width: 100%;
     margin-top: 50px;
-    text-align: left;
+    text-align: center;
+    display: inline-block;
 }
 #contact-info h1 {
-    text-align: left;
+    text-align: center;
 
 }
 #contact-info li {
     list-style: none;
+    letter-spacing: 3px;
+    display: inline-block;
 }
 
 #contact-form {
-    font-size: 90%;
+    font-size: 110%;
     border: 5px 5px;
     border-radius: 5px;
     width: 70%;
@@ -98,8 +100,7 @@ ul {
     margin-top: 7px;
 }
 #contact-details {
-    float: left;
-    width: 50%;
+    width: 100%;
 }
 
 #map-location {
@@ -407,7 +408,10 @@ input[type=file] {
     padding: 8px 8px 8px 8px;
     border-radius: 6px;
   }
-
+#query {
+    height: 100px;
+    
+}
 html {
     background-color: #0f0f0f;
 }
