@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Alata&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Aclonica&family=Syne:wght@600&display=swap');
 
 * {
     margin: 0;
@@ -7,18 +7,18 @@
 }
 
 body {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Syne', sans-serif;
     text-align: center;
     color:rgb(240, 240, 240);
 }
 
 h1 {
-    font-family: Alata, sans-serif;
+    font-family: 'Syne', sans-serif;
     text-align: center;
     color: #11752f;
 }
 h2, h3 {
-    font-family: Alata, sans-serif;
+    font-family: 'Syne', sans-serif;
     text-align: center;
     color: #0daa3c;
     font-size: 110%;
@@ -31,13 +31,14 @@ h2, h3 {
     letter-spacing: 7px;
     background-color: #ffffff;
     text-transform: uppercase;
+    font-family: 'Syne', sans-serif;
 }
 ul {
-    font-family: Alata, sans-serif;
+    font-family: 'Syne', sans-serif;
 }
 
 #main-menu li {
-    font-family: Alata, sans-serif;
+    font-family: 'Syne', sans-serif;
     float: left;
     list-style-type: none;
     margin-right: 30px;
@@ -49,7 +50,7 @@ ul {
 }
 
 #logo {
-    font-family: Alata, sans-serif;
+    font-family: 'Aclonica', sans-serif;
     color: white;
     margin-left: 0px;
     background-color: #067a23;
@@ -87,6 +88,7 @@ ul {
     height: 300px;
     display: inline-block;
     margin-top: 5px;
+    margin-bottom: 15px;
     
 }
 #contact-form form {
@@ -114,7 +116,7 @@ ul {
     text-align: center;
     width: 80%;
 }
-
+/*
 #competitions-winner {
     display: inline-block;
     height: 300px;
@@ -124,6 +126,7 @@ ul {
     background: url('../images/woman-jumping-silhouette.jpg') no-repeat center center;
     background-size: cover;
 }
+*/
 /* photography lessons */
 
 #lessons-introduction {
