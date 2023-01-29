@@ -141,25 +141,28 @@ ul {
     background-color:#111111;
     margin-top: 10px;
     margin-bottom: 10px;
-
 }
 
 #lessons-details {
-    width: 50%;
+    width: 80%;
     text-align: center;
     display: inline-block;
 }
 #skill-levels {
     display: inline-block;
-    width: 40%;
-    margin-left: 20px;
-    margin-right: 20px;
+    width: 25%;
 }
 #equipment-knowledge {
     display: inline-block;
-    width: 40%;
-    margin-left: 20px;
-    margin-right: 20px;
+    width: 25%;
+}
+#pricing {
+    display: inline-block;
+    width: 25%;
+    text-align: center;
+}
+#pricing li {
+    list-style: none;
 }
 #skill-levels li {
     list-style: none;
@@ -289,12 +292,16 @@ a:visited {
 }
 
 a:hover { 
-    text-decoration: underline; 
-    color:#11752f;
+    color:#000000;
+    background-color: #11752f;
+    
 }
 
-a:active { 
+.active { 
     text-decoration: underline; 
+}
+#mainmenu:active {
+    text-decoration: underline;
 }
 
 /* images */
