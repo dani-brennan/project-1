@@ -48,7 +48,14 @@ ul {
     color:rgb(240, 240, 240);
     
 }
-
+.active {
+    color: #067a23;
+    text-decoration: underline;
+    
+}
+a {
+    text-decoration: none;
+}
 #logo {
     font-family: 'Aclonica', sans-serif;
     color: white;
@@ -289,24 +296,9 @@ a {
     color:rgb(255, 255, 255);
 }
 
-a:link { 
-    text-decoration: none; 
-}
-
-a:visited { 
-    text-decoration: none; 
-}
-
 a:hover { 
-    color:#000000;
-    background-color: #11752f;
-}
-
-a:active { 
-    text-decoration: underline; 
-}
-#mainmenu:active {
-    text-decoration: underline;
+    color:#067a23;
+    background-color: #0f0f0f;
 }
 
 /* images */
