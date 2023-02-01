@@ -62,6 +62,12 @@ ul {
     text-decoration: underline;
     
 }
+
+.contact-link {
+    float: right;
+    background-color: #067a23;
+}
+
 a {
     text-decoration: none;
 }
@@ -163,7 +169,7 @@ a {
      width: 100%;
      height: auto;
       }
-      
+    
 * {
      box-sizing: border-box;
       }
@@ -399,7 +405,7 @@ html {
     }
     
     #main-menu {
-        line-height: 30px;   
+         font-size: 95%;
     }
     #gallery {
         margin: auto;
@@ -414,12 +420,20 @@ html {
     
     #main-menu {
         font-size: 100%;
-
     }
+    li a {
+            display: block;
+          }
+    
     nav ul {
-        margin-right: 10px;
-        margin-left: 10px;
-        margin-bottom: 2px;
+        margin-right: 3px;
+        margin-left: 3px;
+        margin-bottom: 5px;
+    }
+
+    .contact-link {
+        float: left;
+        background-color: #067a23;
     }
     
     #gallery {
@@ -477,20 +491,23 @@ html {
         max-height: 300px;
     }
     #photographer-1 {
-        max-height: 200px;
-        width:200px;
+        max-height: 100px;
+        width: 100px;
         margin-top: 8px;
         color:#000000;
+        display: inline-block;
     }
     #photographer-2 {
-        max-height: 200px;
-        width:200px;
+        max-height: 100px;
+        width: 100px;
         margin-top: 8px;
+        display: inline-block;
     }
     #photographer-3 {
-        max-height: 200px;
-        width:200px;
+        max-height: 100px;
+        width: 100px;
         margin-top: 8px;
+        display: inline-block;
     }
 
     video {
