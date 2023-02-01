@@ -154,7 +154,7 @@ a {
     text-align: center;
     display: inline-block;
 }
-
+/*
 #gallery {
     width: 100%;
     height: 370px;
@@ -164,6 +164,27 @@ a {
     margin-top: 10px;
     margin-bottom: 10px;
 }
+
+*/
+
+#gallery {
+     border: 1px solid rgb(0, 0, 0);
+      }
+      
+.gallery img {
+     width: 100%;
+     height: auto;
+      }
+      
+* {
+     box-sizing: border-box;
+      }
+      
+.responsive {
+     padding: 0 5px;
+     float: left;
+     width: 24.99999%;
+      }
 
 #lessons-details {
     width: 80%;
@@ -192,7 +213,7 @@ a {
 #equipment-knowledge li {
     list-style: none;
 }
-
+/*
 #landscape {
     width: 24%;
     height: 300px;
@@ -202,7 +223,6 @@ a {
     display: inline-block;
     background-size: contain;
     text-shadow: 2px 2px #424242;
-   
 }
 
 #portrait {
@@ -241,6 +261,7 @@ a {
     background-size: contain;
     text-shadow: 2px 2px #424242;
 }
+*/
 
 #our-team {
     height: 200px;
@@ -425,7 +446,7 @@ html {
     background-color: #0f0f0f;
 }
 
-/* media query */
+/* media queries */
 
 /* Large-medium screens */
 @media screen and (max-width: 1200px) {
@@ -464,6 +485,7 @@ html {
     img {
         max-width: 0 auto;
         max-height: 0 auto;
+        display: block;
         
     }
 
@@ -483,7 +505,9 @@ html {
         margin-top: 15px;
     }
 
-
+    .responsive {
+        width: 100%;
+      }
 
     /*lessons page */
     #skill-levels {
@@ -556,5 +580,6 @@ html {
         font-size:95%;
         margin-left: 5px;
         margin-right: 5px;
-}
+        margin-top: 10px;
+    }
 }
