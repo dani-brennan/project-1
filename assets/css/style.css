@@ -432,17 +432,15 @@ html {
     p {
         color: blue; }
     
-    }
     #main-menu {
-        line-height: 30px;
-        
+        line-height: 30px;   
     }
     #gallery {
         margin: auto;
         margin-bottom: 5px;
         max-height: 300px;
     }
-
+}
 @media screen and (max-width: 500px) {
     p {
         color: red;
@@ -456,30 +454,18 @@ html {
         margin-right: 20px;
         margin-left: 10px;
         margin-bottom: 2px;
-        
     }
     
-
     #gallery {
         max-width: 500px;
         max-height: 300px;
     }     
-    #landscape {
-        
-    }
-    #portrait {
-        
-    }
-
-    #product {
-        
-    }
+ 
     img {
         max-width: 0 auto;
         max-height: 0 auto;
         
     }
-
 
     /*contact us page */
     #contact-details {
@@ -553,4 +539,22 @@ html {
         margin-top: 180px;
         margin-bottom: 10px;
     }
+
+/* contact us page */
+    .row {
+        line-height: 5px;
+        font-size: 90%;
+    }
+    #contact-form {
+        width: 420px;
+    }
+    label {
+        font-size: 90%;
+        height: 10px; 
+    }
+    p {
+        font-size:95%;
+        margin-left: 5px;
+        margin-right: 5px;
+}
 }
