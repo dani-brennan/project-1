@@ -24,7 +24,7 @@ h2 {
     text-align: center;
     color: #079933;
     font-size: 140%;
-    
+    margin-top: 5px;
 }
 
 h3 {
@@ -60,14 +60,11 @@ ul {
     margin-top: 4px;
     text-decoration: none;
     color:rgb(240, 240, 240);
-    
 }
 .active {
     color: #080808;
-    text-decoration:double;
-    
+    text-decoration: double; 
 }
-
 a {
     text-decoration: none;
 }
@@ -75,7 +72,6 @@ a {
     font-family: 'Aclonica', sans-serif;
     color: white;
     background-color: #1f1f1f;
-
 }
 /* contact us */
 #photographer-woman {
@@ -99,7 +95,6 @@ a {
     letter-spacing: 3px;
     display: inline-block;
 }
-
 #contact-form {
     border: 5px 5px;
     border-radius: 5px;
@@ -107,13 +102,11 @@ a {
     height: 320px;
     display: inline-block;
     margin-top: 15px;
-    margin-bottom: 25px;
-    
+    margin-bottom: 25px;  
 }
 #contact-form form {
     display: inline-block;
 }
-
 #contact-form button {
     background-color: #ffffff;
     border: 5px 7px;
@@ -123,11 +116,9 @@ a {
 #contact-details {
     width: 100%;
 }
-
 #map-location {
     width: 100%;
     display: block;
-
 }
 
 /* competitions page */
@@ -155,26 +146,21 @@ a {
     text-align: center;
     display: inline-block;
 }
-
 #gallery {
      border: 1px solid rgb(0, 0, 0);
-      }
-      
+}    
 .gallery img {
      width: 100%;
      height: auto;
-      }
-    
+}   
 * {
      box-sizing: border-box;
-      }
-      
+}    
 .responsive {
      padding: 0 5px;
      float: left;
      width: 24.99999%;
-      }
-
+}
 #lessons-details {
     width: 80%;
     margin-top: 10px;
@@ -203,15 +189,13 @@ a {
 #equipment-knowledge li {
     list-style: none;
 }
-
 #our-team {
     height: 200px;
     width: 60%;
     margin-top: 15px;
     margin-bottom: 40px;
     text-align: center;
-    display: inline-block;
-    
+    display: inline-block; 
 }
 #studio {
     width: 100%;
@@ -271,7 +255,6 @@ a {
 a {
     color:rgb(255, 255, 255);
 }
-
 a:hover { 
     color:#000000;
     text-decoration: underline;
@@ -298,7 +281,6 @@ button {
     margin: 6px 2px 2px 2px;
     border-radius: 5px;
 }
-
 button:hover {
     color:rgb(0, 0, 0);
     background-color: #ffffff;
@@ -325,8 +307,7 @@ footer {
     width: 100%;
     font-size: 130%;
     text-align: center;
-    height:50px;
-    
+    height:50px;  
 }
 
 footer ul li {
@@ -344,7 +325,6 @@ input[type=text], select, textarea {
     resize: vertical;
     text-align:left;
 }
-  
   label {
     padding: 20px 20px 20px 20px;
     display: inline-block;
@@ -354,8 +334,7 @@ input[type=text], select, textarea {
     padding: 8px 8px 8px 8px;
     border-radius: 6px;
     resize: vertical;
-}
-  
+} 
   input[type=submit] {
     padding: 8px 10px;
     border: none;
@@ -597,6 +576,5 @@ html {
     }
     input[type=radio] {
         font-size: 90%;
-        color: red;
     }
 }
