@@ -56,6 +56,7 @@ Ceamara is a site that provides information on photography lessons. They are bas
 <ul>
 <h4>Images</h4>
 <ul>
+<li>https://pixabay.com/photos/camera-lens-photography-flat-4830248/</li>
 <li>https://pixabay.com/photos/beach-sun-evening-summer-sea-2836300/</li>
 <li>https://pixabay.com/photos/photographer-photo-city-street-1805317/</li>
 <li>https://pixabay.com/photos/road-forest-fall-autumn-season-1072823/

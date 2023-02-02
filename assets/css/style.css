@@ -63,11 +63,6 @@ ul {
     
 }
 
-.contact-link {
-    float: right;
-    background-color: #067a23;
-}
-
 a {
     text-decoration: none;
 }
@@ -229,6 +224,7 @@ a {
     height: 450px;
     width: 100%;
     background-size: cover;
+    filter: brightness(90%);
 }
 #photographer-1 {
     width: 20%;
@@ -442,6 +438,30 @@ html {
         background-color: #067a23;
     }
     
+    #camera-equipment {
+        height: 350px;
+        width: 100%;
+        background: url('../images/camera-equipment.jpg') no-repeat center center;
+    }
+    #beach-landscape {
+        height: 350px;
+        width: 100%;
+        background: url('../images/beach-landscape.jpg') no-repeat top center;
+        background-size: cover;
+    }
+    #photographer-woman {
+        height: 350px;
+        width: 100%;
+        background: url('../images/photographer-woman.jpg') no-repeat center center;
+
+    }
+    #photography-studio {
+        background: url(../images/photography-studio.jpg) no-repeat center center;
+        height: 350px;
+        width: 100%;
+        background-size: cover;
+        filter: brightness(90%);
+    }
     #gallery {
         max-width: 500px;
         max-height: 300px;
