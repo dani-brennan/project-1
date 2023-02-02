@@ -538,11 +538,11 @@ html {
         display: inline-block;
     }
     #photographer-1 {
-        max-height: 200px;
-        width: 200px;
+        max-height: 180px;
+        width: 180px;
         margin-top: 8px;
         display: inline-block;
-        filter: brightness(70%);
+        filter: brightness(80%);
         text-shadow: 2px 1px #000000;
     }
     #photographer-2 {
@@ -550,7 +550,7 @@ html {
         width: 180px;
         margin-top: 8px;
         display: inline-block;
-        filter: brightness(70%);
+        filter: brightness(80%);
         text-shadow: 2px 1px #000000;
     }
     #photographer-3 {
@@ -558,7 +558,7 @@ html {
         width: 180px;
         margin-top: 8px;
         display: inline-block;
-        filter: brightness(70%);
+        filter: brightness(80%);
         text-shadow: 2px 1px #000000;
     }
     #studio {
