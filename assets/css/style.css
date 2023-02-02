@@ -24,7 +24,7 @@ h2 {
     text-align: center;
     color: #079933;
     font-size: 140%;
-    margin-top: 5px;
+    margin-top: 4px;
 }
 
 h3 {
@@ -73,6 +73,7 @@ a {
     color: white;
     background-color: #1f1f1f;
 }
+
 /* contact us */
 #photographer-woman {
     height: 450px;
@@ -141,7 +142,7 @@ a {
     width: 70%;
     background-color: rgb(14, 14, 14);
     color:#ffffff;
-    margin-top: 10px;
+    margin-top: 20px;
     margin-bottom: 30px;
     text-align: center;
     display: inline-block;
@@ -194,7 +195,6 @@ a {
     width: 60%;
     margin-top: 15px;
     margin-bottom: 40px;
-    text-align: center;
     display: inline-block; 
 }
 #studio {
@@ -339,7 +339,6 @@ input[type=text], select, textarea {
     padding: 8px 10px;
     border: none;
     border-radius: 5px;
-    float: right;
 }
   input[type=submit]:hover {
     background-color: #45a049;
@@ -596,6 +595,9 @@ html {
     p {font-size: 90%
     }
     #contact-form {
+        max-width: 300px;
+    }
+    #studio img {
         max-width: 300px;
     }
 }
