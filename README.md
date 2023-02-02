@@ -1,12 +1,22 @@
 <h1>Ceamara</h1>
 Ceamara is a site that provides information on photography lessons. They are based in Wexford, Ireland and target photographers of all skill levels. This site will allow photographers to contact Ceamara if they are interested in lessons or to enter into their competition.
 
-
-[final screenshots]
+<img src="assets/images/screen-sizes.PNG">
 
 <h2>Target Audience</h2>
 <p>People who love photography and want to learn more from an experienced photographer.
 </p>
+
+<h2>Wireframes</h2>
+<h3>Home Page</h3>
+<img src="assets/images/home-wireframe.PNG">
+<h3>Lessons Page</h3>
+<img src="assets/images/lessons-wireframe.PNG">
+<h3>Competitions Page</h3>
+<img src="assets/images/competitions-wireframe.PNG">
+<h3>Contact Page</h3>
+<img src="assets/images/contact-wireframe.PNG">
+
 
 <h2>User Goals</h2>
 <ul>
@@ -45,8 +55,8 @@ Ceamara is a site that provides information on photography lessons. They are bas
 <p>No errors were found after passing code through W3C Validator.</p>
 
 <h3>Lighthouse Testing</h3>
-<p></p>
-<image src="/workspace/project-1/assets/images/lighthouse-report.png"></image>
+<img src="assets/images/lighthouse-report.PNG"></image>
+<p>After testing the website I received a warning that the image files were too big so I compressed them which improved the performance rating.</p>
 
 <h2>Unfixed Bugs</h2>
 <p>Unfixed bugs</p>
@@ -78,7 +88,7 @@ Ceamara is a site that provides information on photography lessons. They are bas
 <li>https://pixabay.com/photos/apples-red-bowl-still-life-fruits-2906457/</li>
 <li>https://pixabay.com/photos/strawberry-fruit-bowl-food-berry-1330459/</li>
 <li>https://pixabay.com/photos/adult-blur-bokeh-city-evening-1867665/</li>
-<li>https://pixabay.com/photos/hong-kong-city-traffic-lights-1990268/<li>
+<li>https://pixabay.com/photos/hong-kong-city-traffic-lights-1990268/</li>
 <li>https://pixabay.com/photos/woman-portrait-model-fashion-hat-597173/</li>
 <li>https://pixabay.com/photos/face-cute-happy-man-male-person-2171923/</li>
 <li>https://pixabay.com/photos/man-smile-bold-elegant-male-1690965/</li>
@@ -91,9 +101,8 @@ Sourced from: https://fontawesome.com/
 <h4>Code</h4>
 Image gallery help from: https://www.w3schools.com/css/css_image_gallery.asp
 
-
-
-
+<h4>Screen previews</h4>
+Created using https://ui.dev/amiresponsive?
 
 
 
