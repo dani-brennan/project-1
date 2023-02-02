@@ -86,6 +86,8 @@ Ceamara is a site that provides information on photography lessons. They are bas
 <h4>Icons</h4>
 Sourced from: https://fontawesome.com/
 
+<h4>Code</h4>
+Image gallery help from: https://www.w3schools.com/css/css_image_gallery.asp
 
 
 

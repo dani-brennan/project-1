@@ -381,13 +381,18 @@ input[type=email] {
 }
 
 input[type=file] {
-    width: 20%;
     text-align: center;
     color: #ffffff;
     border: none;
-    padding: 8px 8px 8px 8px;
-    border-radius: 6px;
+    display: inline-block;
   }
+
+input[type=checkbox] { 
+    text-align: center;
+    color: red;
+
+}
+
 #query {
     height: 100px;
     
@@ -405,7 +410,7 @@ html {
     }
     
     #main-menu {
-         font-size: 95%;
+         font-size: 99%;
     }
     #gallery {
         margin: auto;
@@ -448,9 +453,12 @@ html {
     #map-location {
         max-width: 500px;
         display: block;
+    }    
+    #contact-form {
+        max-width: 450px;
+    } 
         
-        
-    }
+    
     iframe {
         max-width: 350px;
         max-height: 350px;
@@ -525,7 +533,7 @@ html {
         font-size: 90%;
     }
     #contact-form {
-        width: 400px;
+        width: 90%;
         height: 300px;
     }
     label {
