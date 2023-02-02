@@ -16,6 +16,7 @@ h1 {
     font-family: 'Syne', sans-serif;
     text-align: center;
     color: #11752f;
+    margin-top: 5px;
 }
 
 h2 {
@@ -86,7 +87,6 @@ a {
     font-size: 110%;
     color: rgb(255, 255, 255);
     width: 100%;
-    margin-top: 10px;
     text-align: center;
     display: inline-block;
 }
@@ -187,6 +187,7 @@ a {
 
 #lessons-details {
     width: 80%;
+    margin-top: 10px;
     text-align: center;
     display: inline-block;
 }
@@ -426,7 +427,9 @@ html {
     p {
         color: rgb(250, 250, 250);
     }
-    
+    #logo {
+        font-size: 90%;
+    }
     #main-menu {
         font-size: 90%;
     }
@@ -504,7 +507,7 @@ html {
     /*lessons page */
 
     #lessons-introduction {
-        width: 420px;
+        width: 90%;
     }
     #skill-levels {
         font-size: 75%;
