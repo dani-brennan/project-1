@@ -437,27 +437,24 @@ html {
         color: rgb(250, 250, 250);
     }
     #logo {
-        font-size: 90%;
+        font-size: 95%;
     }
     #main-menu {
-        font-size: 90%;
+        font-size: 95%;
     }
     li a {
             display: block;
             text-align: justify;
-          }
-    
+    }
     nav ul {
         margin-right: 3px;
         margin-left: 3px;
         margin-bottom: 5px;
     }
-
     .contact-link {
         float: left;
         background-color: #067a23;
     }
-    
     #camera-equipment {
         height: 250px;
         width: 100%;
@@ -473,7 +470,6 @@ html {
         height: 250px;
         width: 100%;
         background: url('../images/photographer-woman.jpg') no-repeat center center;
-
     }
     #photography-studio {
         background: url('../images/photography-studio.jpg') no-repeat center center;
@@ -516,7 +512,7 @@ html {
     /*lessons page */
 
     #lessons-introduction {
-        width: 90%;
+        width: 100%;
     }
     #skill-levels {
         font-size: 75%;
@@ -583,7 +579,7 @@ html {
         display: inline-block;
     }
     #studio img {
-        max-width: 400px;
+        max-width: 380px;
         display: inline-block;
     }
    
