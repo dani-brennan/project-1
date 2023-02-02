@@ -411,7 +411,7 @@ html {
 
 /* media queries */
 
-/* Large-medium screens */
+/* large-medium screens */
 @media screen and (max-width: 1200px) {
     p {
         font-size: 96%;
@@ -537,14 +537,13 @@ html {
     #equipment-knowledge {
         font-size: 75%;
         width: 33%;
-        text-align: left;
-        
+        text-align: center;
     }
     #equipment-knowledge h2 {
         font-size: 110%;
     }
     #our-team {
-        max-height: 400px;
+        max-height: 500px;
         display: inline-block;
     }
     #photographer-1 {
@@ -553,8 +552,7 @@ html {
         margin-top: 8px;
         display: inline-block;
         filter: brightness(70%);
-        text-shadow: 1px 1px #000000;
-        
+        text-shadow: 2px 1px #000000;
     }
     #photographer-2 {
         max-height: 200px;
@@ -562,7 +560,7 @@ html {
         margin-top: 8px;
         display: inline-block;
         filter: brightness(70%);
-        text-shadow: 1px 1px #000000;
+        text-shadow: 2px 1px #000000;
     }
     #photographer-3 {
         max-height: 200px;
@@ -570,11 +568,10 @@ html {
         margin-top: 8px;
         display: inline-block;
         filter: brightness(70%);
-        text-shadow: 1px 1px #000000;
+        text-shadow: 2px 1px #000000;
     }
-
     #studio {
-        max-width: 400px;
+        max-width: 380px;
         max-height: 300px;
         display: inline-block;
     }

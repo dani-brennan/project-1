@@ -36,9 +36,17 @@ Ceamara is a site that provides information on photography lessons. They are bas
 <h2>Testing</h2>
 <h3>Validator Testing</h3>
 <h4>HTML</h4>
-<p>No errors were found after passing code through W3C Validator.</p>
+<p>index.html - No errors were found after passing code through W3C Validator.</p>
+<p>lessons.html - - No errors were found after passing code through W3C Validator.</p>
+<p>competitions.html - - No errors were found after passing code through W3C Validator.</p>
+<p>contact.html - - No errors were found after passing code through W3C Validator.</p>
+
 <h4>CSS</h4>
 <p>No errors were found after passing code through W3C Validator.</p>
+
+<h3>Lighthouse Testing</h3>
+<p></p>
+<image src="/workspace/project-1/assets/images/lighthouse-report.png"></image>
 
 <h2>Unfixed Bugs</h2>
 <p>Unfixed bugs</p>
