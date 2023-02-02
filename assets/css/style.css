@@ -21,7 +21,7 @@ h1 {
 h2 {
     font-family: 'Syne', sans-serif;
     text-align: center;
-    color: #067527;
+    color: #079933;
     font-size: 140%;
     
 }
@@ -29,7 +29,7 @@ h2 {
 h3 {
     font-family: 'Syne', sans-serif;
     text-align: center;
-    color: #0daa3c;
+    color: #12c547;
     font-size: 110%;
 }
 
@@ -73,8 +73,7 @@ a {
 #logo {
     font-family: 'Aclonica', sans-serif;
     color: white;
-    margin-left: 0px;
-    background-color: #067a23;
+    background-color: #1f1f1f;
 
 }
 /* contact us */
@@ -107,7 +106,7 @@ a {
     width: 60%;
     height: 320px;
     display: inline-block;
-    margin-top: 25px;
+    margin-top: 15px;
     margin-bottom: 25px;
     
 }
@@ -132,6 +131,13 @@ a {
 }
 
 /* competitions page */
+#beach-landscape {
+    height: 450px;
+    width: 100%;
+    background: url('../images/beach-landscape.jpg') no-repeat top center;
+    background-size: cover;
+    filter: brightness(70%);
+}
 #competitions {
     display: inline-block;
     text-align: center;
@@ -236,7 +242,7 @@ a {
     background-color: #067a23;
     border-radius: 360px;
     display: inline-block;
-    background: url(../images/photographer-john.jpg) no-repeat center center;
+    background: url('../images/photographer-john.jpg') no-repeat center center;
     background-size: cover;
     margin-left: 30px;
     margin-right: 30px;
@@ -247,7 +253,7 @@ a {
     background-color: #067a23;
     border-radius: 360px;
     display: inline-block;
-    background: url(../images/photographer-clare.jpg) no-repeat top center;
+    background: url('../images/photographer-clare.jpg') no-repeat top center;
     background-size: cover;
     margin-left: 30px;
     margin-right: 30px;
@@ -258,7 +264,7 @@ a {
     background-color: #067a23;
     border-radius: 360px;
     display: inline-block;
-    background: url(../images/photographer-nathan.jpg) no-repeat center center;
+    background: url('../images/photographer-nathan.jpg') no-repeat center center;
     background-size: cover;
     margin-left: 30px;
     margin-right: 30px;
@@ -268,25 +274,18 @@ a {
 }
 
 a:hover { 
-    color:#067a23;
-    background-color: #0f0f0f;
+    color:#000000;
+    text-decoration: underline;
 }
 
 /* images */
 #camera-equipment {
     height: 450px;
     width: 100%;
-    background: url('../images/camera-equipment.jpg') no-repeat center center;
-    filter: brightness(60%);
-}
-
-#beach-landscape {
-    height: 450px;
-    width: 100%;
-    background: url('../images/beach-landscape.jpg') no-repeat top center;
-    background-size: cover;
+    background: url('../images/camera-equipment.jpg') no-repeat bottom center;
     filter: brightness(70%);
 }
+
 
 button {
     background-color:#067a23;
@@ -295,6 +294,8 @@ button {
     padding: 7px 10px;
     text-align: center;
     text-decoration: none;
+    padding-top: 3px;
+    padding-bottom: 3px;
 }
 
 button a {
@@ -503,7 +504,7 @@ html {
     /*lessons page */
 
     #lessons-introduction {
-        width: 450px;
+        width: 420px;
     }
     #skill-levels {
         font-size: 75%;
