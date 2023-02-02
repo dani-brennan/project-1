@@ -395,15 +395,18 @@ html {
         max-height: 300px;
     }
 }
+/* small screens, laptops */
 @media screen and (max-width: 1024px) {
     #main-menu li {
         font-size: 90%;
     }
 }
 
+/* ipads, tablets */
 @media screen and (max-width: 768px) {
     #main-menu li {
-        font-size: 75%;
+        font-size: 70%;
+        letter-spacing: 1px;
     }
 }
 
