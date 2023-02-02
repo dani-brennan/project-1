@@ -62,7 +62,7 @@ ul {
     
 }
 .active {
-    color: #000000;
+    color: #080808;
     text-decoration:double;
     
 }
@@ -87,7 +87,7 @@ a {
     font-size: 110%;
     color: rgb(255, 255, 255);
     width: 100%;
-    margin-top: 50px;
+    margin-top: 10px;
     text-align: center;
     display: inline-block;
 }
@@ -427,10 +427,11 @@ html {
     }
     
     #main-menu {
-        font-size: 100%;
+        font-size: 90%;
     }
     li a {
             display: block;
+            text-align: justify;
           }
     
     nav ul {
@@ -502,13 +503,14 @@ html {
     /*lessons page */
 
     #lessons-introduction {
-        max-width: 450px;
+        width: 450px;
     }
     #skill-levels {
         font-size: 75%;
         float: left;
         width: 33%;
         margin-right: 2px;
+        text-align: left;
     }
     #skill-levels h2 {
         font-size: 110%;
@@ -517,13 +519,16 @@ html {
         font-size: 75%;
         float: right;
         width: 33%;
+        text-align: right;
     }
     #pricing h2 {
         font-size: 110%;
+        text-align: right;
     }
     #equipment-knowledge {
         font-size: 75%;
         width: 33%;
+        text-align: left;
         
     }
     #equipment-knowledge h2 {
@@ -563,7 +568,7 @@ html {
 
 /* contact us page */
     .row {
-        line-height: 5px;
+        line-height: 15px;
         font-size: 90%;
     }
     #contact-form {
@@ -572,7 +577,7 @@ html {
     }
     label {
         font-size: 90%;
-        height: 10px; 
+        height: 35px; 
     }
     p {
         font-size:95%;
