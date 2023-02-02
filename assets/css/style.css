@@ -249,6 +249,8 @@ a {
     background-size: cover;
     margin-left: 30px;
     margin-right: 30px;
+    filter: brightness(70%);
+    text-shadow: 1px 1px #000000;
 }
 #photographer-2 {
     width: 20%;
@@ -260,6 +262,8 @@ a {
     background-size: cover;
     margin-left: 30px;
     margin-right: 30px;
+    filter: brightness(70%);
+    text-shadow: 1px 1px #000000;
 }
 #photographer-3 {
     width: 20%;
@@ -271,6 +275,8 @@ a {
     background-size: cover;
     margin-left: 30px;
     margin-right: 30px;
+    filter: brightness(70%);
+    text-shadow: 1px 1px #000000;
 }
 a {
     color:rgb(255, 255, 255);
@@ -542,35 +548,45 @@ html {
         font-size: 110%;
     }
     #our-team {
-        max-height: 300px;
+        max-height: 400px;
+        display: inline-block;
     }
     #photographer-1 {
-        max-height: 100px;
-        width: 100px;
+        max-height: 200px;
+        width: 200px;
         margin-top: 8px;
-        color:#000000;
         display: inline-block;
+        filter: brightness(70%);
+        text-shadow: 1px 1px #000000;
+        
     }
     #photographer-2 {
-        max-height: 100px;
-        width: 100px;
+        max-height: 200px;
+        width: 200px;
         margin-top: 8px;
         display: inline-block;
+        filter: brightness(70%);
+        text-shadow: 1px 1px #000000;
     }
     #photographer-3 {
-        max-height: 100px;
-        width: 100px;
+        max-height: 200px;
+        width: 200px;
         margin-top: 8px;
         display: inline-block;
+        filter: brightness(70%);
+        text-shadow: 1px 1px #000000;
     }
 
     #studio {
         max-width: 400px;
         max-height: 300px;
+        display: inline-block;
     }
-    video {
-        max-width: 450px;
+    #studio img {
+        max-width: 400px;
+        display: inline-block;
     }
+   
     #get-in-contact {
         margin-top: 180px;
         margin-bottom: 10px;

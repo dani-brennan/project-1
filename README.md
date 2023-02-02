@@ -75,7 +75,8 @@ Ceamara is a site that provides information on photography lessons. They are bas
 <li>https://pixabay.com/photos/face-cute-happy-man-male-person-2171923/</li>
 <li>https://pixabay.com/photos/man-smile-bold-elegant-male-1690965/</li>
 <li>https://www.pexels.com/photo/professional-photographer-during-photo-shoot-in-studio-3800848/</li>
-
+</ul
+>
 <h4>Icons</h4>
 Sourced from: https://fontawesome.com/
 
