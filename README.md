@@ -59,30 +59,22 @@ Ceamara is a site that provides information on photography lessons. They are bas
 <li>https://pixabay.com/photos/camera-lens-photography-flat-4830248/</li>
 <li>https://pixabay.com/photos/beach-sun-evening-summer-sea-2836300/</li>
 <li>https://pixabay.com/photos/photographer-photo-city-street-1805317/</li>
-<li>https://pixabay.com/photos/road-forest-fall-autumn-season-1072823/
-</li>
+<li>https://pixabay.com/photos/road-forest-fall-autumn-season-1072823/</li>
 <li>https://pixabay.com/photos/beach-sun-evening-summer-sea-2836300/</li>
-<li>https://pixabay.com/photos/banana-trees-cabin-clouds-daylight-1850882/
-</li>
+<li>https://pixabay.com/photos/banana-trees-cabin-clouds-daylight-1850882/</li>
 <li>https://pixabay.com/photos/iceland-mountains-kirkjufell-1768744/</li>
 <li>https://pixabay.com/photos/woman-fashion-beauty-glamour-1274056/</li>
 <li>https://pixabay.com/photos/asian-man-portrait-young-man-man-1468032/</li>
-
 <li>https://pixabay.com/photos/cat-young-animal-kitten-gray-cat-2083492/</li>
-
 <li>https://pixabay.com/photos/girl-beauty-fairytales-fantasy-2436545/</li>
-
 <li>https://pixabay.com/photos/apples-red-bowl-still-life-fruits-2906457/</li>
-
 <li>https://pixabay.com/photos/strawberry-fruit-bowl-food-berry-1330459/</li>
-
 <li>https://pixabay.com/photos/adult-blur-bokeh-city-evening-1867665/</li>
-
 <li>https://pixabay.com/photos/hong-kong-city-traffic-lights-1990268/<li>
-
 <li>https://pixabay.com/photos/woman-portrait-model-fashion-hat-597173/</li>
 <li>https://pixabay.com/photos/face-cute-happy-man-male-person-2171923/</li>
 <li>https://pixabay.com/photos/man-smile-bold-elegant-male-1690965/</li>
+<li>https://www.pexels.com/photo/professional-photographer-during-photo-shoot-in-studio-3800848/</li>
 
 <h4>Icons</h4>
 Sourced from: https://fontawesome.com/
@@ -97,8 +89,3 @@ Image gallery help from: https://www.w3schools.com/css/css_image_gallery.asp
 
 
 </ul>
-
-<h4>Videos</h4>
-<ul>
-<li>Video by cottonbro studio from Pexels: https://www.pexels.com/video/a-photographer-wnating-the-perfect-lighting-for-a-model-photo-shoot-3888252/
-</li></ul>

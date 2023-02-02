@@ -224,11 +224,13 @@ a {
     
 }
 #studio {
-    height: 300px;
     width: 100%;
-    display: inline-block;
     margin-top: 20px;
     margin-bottom: 20px;
+}
+#studio img {
+    width: 900px;
+    display: inline-block;
 }
 #photography-studio {
     background: url('../images/photography-studio.jpg') no-repeat center center;
@@ -389,6 +391,7 @@ input[type=file] {
     text-align: center;
     color: #ffffff;
     border: none;
+    margin-left: 10px;
     display: inline-block;
   }
 
@@ -564,6 +567,9 @@ html {
     #studio {
         max-width: 400px;
         max-height: 300px;
+    }
+    video {
+        max-width: 450px;
     }
     #get-in-contact {
         margin-top: 180px;
