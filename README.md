@@ -115,7 +115,7 @@ This website provides information on photography lessons offered by Ceamara. The
 <h2>Credits</h2>
 <h3>Media</h3>
 
-<h4>Images</h4>
+<h3>Images</h3>
 <ul>
 <li>https://pixabay.com/photos/camera-lens-photography-flat-4830248/</li>
 <li>https://pixabay.com/photos/beach-sun-evening-summer-sea-2836300/</li>
@@ -138,18 +138,21 @@ This website provides information on photography lessons offered by Ceamara. The
 <li>https://www.pexels.com/photo/professional-photographer-during-photo-shoot-in-studio-3800848/</li>
 </ul>
 
-<h4>Icons</h4>
+<h3>Icons</h3>
 Sourced from: https://fontawesome.com/
 
-<h4>Code</h4>
+<h3>Code</h3>
 Image gallery tutorial from: https://www.w3schools.com/css/css_image_gallery.asp
 
-<h4>Screen previews</h4>
+<h3>Screen previews</h3>
 Created using https://ui.dev/amiresponsive?
 
-<h4>Wireframes</h4>
+<h3>Contact form Success page</h3>
+by CodeInstitute
+
+<h3>Wireframes</h3>
 Created with https://balsamiq.com/wireframes/
 
-<h4>Maps</h4>
+<h3>Maps</h3>
 Created using Google Maps.
 
