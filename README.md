@@ -1,15 +1,37 @@
 <h1>Ceamara</h1>
-Ceamara is a site that provides information on photography lessons. They are based in Wexford, Ireland and target photographers of all skill levels. This site will allow photographers to contact Ceamara if they are interested in lessons or to enter into their competition.
+This website provides information on photography lessons offered by Ceamara. They are based in Wexford, Ireland and target photographers of all skill levels. Ceamara offers lessons to small groups of people at a time. This site will allow photographers to contact Ceamara if they are interested in lessons or to enter into their competition.
 
 <img src="assets/images/screen-sizes.PNG">
 
 <h2>Target Audience</h2>
-<p>People who love photography either as a hobby or career and want to learn more from an experienced photographer. 
+<ul>
+<li>People with a photography hobby</li> 
+<li>People who are interested in photography lessons</li>
+<li>People who are interested in having a career in photography</li>
+<li>People who are interested in entering into the competition</li>
 </p>
+
+<h2>User Goals</h2>
+<ul>
+<li>To learn more about Ceamara, its location and owner.</li>
+<li>To learn more about lessons offered.</li>
+<li>To learn lesson pricing and structure.</li>
+<li>To enquire about or sign up for photography lessons.</li>
+<li>To enter into the photography competition.</li>
+</ul>
+
+<h2>Website Owner Goals</h2>
+<ul>
+<li>To have a good online presence.</li>
+<li>Attract new customers,</li>
+<li>To encourage more people sign up for photography lessons.</li>
+<li>To gain more entries into their photography competition.</li>
+</ul>
 
 <h2>Languages Used</h2>
 <h3>HTML</h3>
 <h3>CSS</h3>
+
 <h2>Wireframes</h2>
 <h3>Home Page</h3>
 <img src="assets/images/home-wireframe.PNG">
@@ -20,41 +42,42 @@ Ceamara is a site that provides information on photography lessons. They are bas
 <h3>Contact Page</h3>
 <img src="assets/images/contact-wireframe.PNG">
 
-
-<h2>User Goals</h2>
-<ul>
-<li>To learn more about lessons offered.</li>
-<li>To learn lesson pricing and structure.</li>
-<li>To enquire about or sign up for photography lessons.</li>
-<li>To enter into the photography competition.</li>
-</ul>
-
 <h2>Features</h2>
 <h3>Existing Features</h3>
 <h4>Navigation</h4>
 <p>The navigation bar contains links to the home, lessons, competitions and contact page. The navigation will be the same on all pages so that the site is easy to navigate.</p>
 <img src="assets/images/navigation-screenshot.PNG">
+
 <h4>About Us</h4>
 <p>The about us section on the home page gives a brief description of the company and when it was created.</p>
 <img src="assets/images/about-screenshot.PNG">
+
 <h4>Portfolio</h4>
 <p>This section shows a small gallery of images taken by the different photographers in order to showcase their talents.</p>
 <img src="assets/images/portfolio-screenshot.PNG">
 <h4>Competitions</h4>
+
 <img src="assets/images/competition-screenshot.PNG">
 <p>This page allows users to enter into the photography competition hosted by Ceamara.</p>
 <img src="assets/images/competition-form-screenshot.PNG">
 <h4>Lessons</h4>
+
 <p>This section gives details on the lessons offered by Ceamara. It provides information on who the lessons are aimed towards, lesson pricing and class sizes.</p>
 <img src="assets/images/lessons-screenshot.PNG">
+
 <h4>Contact Us</h4>
 <p>This page allows the user to enter in their details and query. It also has contact details such as phone, email and location. The form allows users to specify their query into options such as lessons, competitions, renting equipment and other.</p>
 <img src="assets/images/contact-screenshot.PNG">
 <p>There is also a google maps section which shows the user where Ceamara is located.</p>
 <img src="assets/images/map-screenshot.PNG">
+
 <h4>Footer</p>
 <p>The footer contains the businesses social media links and it is the same on every page.</p>
 <img src="assets/images/footer-screenshot.PNG">
+
+<h3>Future Features</h3>
+<p>I would like to add a page with a gallery of previous winners of the competition. I would also like to add a blog page where the owner can post photography advice.</p>
+
 
 <h2>Testing</h2>
 <p>I tested that this website works on Chrome, Microsoft Edge, Safari and Firefox.
@@ -122,4 +145,7 @@ Created using https://ui.dev/amiresponsive?
 
 <h4>Wireframes</h4>
 Created with https://balsamiq.com/wireframes/
-</ul>
+
+<h4>Maps</h4>
+Created using Google Maps.
+
