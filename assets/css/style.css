@@ -410,6 +410,44 @@ html {
         font-size: 85%;
         letter-spacing: 1px;
     }
+    #our-team {
+        max-height: 500px;
+        display: inline-block;
+        margin-bottom: 30px;
+    }
+    #photographer-1 {
+        max-height: 120px;
+        width: 120px;
+        margin-top: 8px;
+        margin-bottom: 20px;
+        filter: brightness(80%);
+        text-shadow: 2px 1px #000000;
+        
+    }
+    #photographer-2 {
+        max-height: 120px;
+        width: 120px;
+        margin-top: 8px;
+        margin-bottom: 20px;
+        filter: brightness(80%);
+        text-shadow: 2px 1px #000000;
+        
+    }
+    #photographer-3 {
+        max-height: 120px;
+        width: 120px;
+        margin-top: 8px;
+        filter: brightness(80%);
+        text-shadow: 2px 1px #000000;
+        
+    }
+    #get-in-contact {
+        display: block;
+        margin-top: 90px;
+    }
+
+
+
 }
 
 @media screen and (max-width: 500px) {
