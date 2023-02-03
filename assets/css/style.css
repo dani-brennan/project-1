@@ -426,7 +426,7 @@ html {
         font-size: 95%;
     }
     #main-menu {
-        display: block;
+        display: inline-block;
     }
     #main-menu li {
         font-size: 60%;
