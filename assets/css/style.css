@@ -5,20 +5,17 @@
     padding: 0;
     border: 0;
 }
-
 body {
     font-family: 'Syne', sans-serif;
     text-align: center;
     color:rgb(240, 240, 240);
 }
-
 h1 {
     font-family: 'Syne', sans-serif;
     text-align: center;
     color: #11752f;
     margin-top: 5px;
 }
-
 h2 {
     font-family: 'Syne', sans-serif;
     text-align: center;
@@ -26,7 +23,6 @@ h2 {
     font-size: 140%;
     margin-top: 4px;
 }
-
 h3 {
     font-family: 'Syne', sans-serif;
     text-align: center;
@@ -73,6 +69,12 @@ a {
     color: white;
     background-color: #1f1f1f;
 }
+#camera-equipment {
+    height: 450px;
+    width: 100%;
+    background: url('../images/camera-equipment.jpg') no-repeat bottom center;
+    filter: brightness(70%);
+}
 
 /* contact us */
 #photographer-woman {
@@ -89,7 +91,6 @@ a {
 }
 #contact-info h1 {
     text-align: center;
-
 }
 #contact-info li {
     list-style: none;
@@ -262,14 +263,6 @@ a:hover {
     text-decoration: underline;
 }
 
-/* images */
-#camera-equipment {
-    height: 450px;
-    width: 100%;
-    background: url('../images/camera-equipment.jpg') no-repeat bottom center;
-    filter: brightness(70%);
-}
-
 /* buttons */
 button {
     background-color:#067a23;
@@ -430,24 +423,19 @@ html {
         margin-top: 8px;
         margin-bottom: 20px;
         filter: brightness(80%);
-        text-shadow: 2px 1px #000000;
-        
+        text-shadow: 2px 1px #000000;  
     }
     #photographer-3 {
         max-height: 120px;
         width: 120px;
         margin-top: 8px;
         filter: brightness(80%);
-        text-shadow: 2px 1px #000000;
-        
+        text-shadow: 2px 1px #000000;   
     }
     #get-in-contact {
         display: block;
         margin-top: 90px;
     }
-
-
-
 }
 
 @media screen and (max-width: 500px) {
@@ -517,22 +505,18 @@ html {
     #contact-form {
         max-width: 450px;
     } 
-    
     label {
         padding: 5px 5px 5px 5px;
         display: inline-block;
       }
-    
     iframe {
         max-width: 350px;
         max-height: 350px;
         margin-top: 15px;
     }
-
     .responsive {
         width: 100%;
     }
-
     /*lessons page */
 
     #lessons-introduction {
