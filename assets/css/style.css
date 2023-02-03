@@ -54,15 +54,15 @@ ul {
     font-family: 'Syne', sans-serif;
     display: inline-block;
     list-style-type: none;
-    margin-right: 10px;
-    margin-left: 10px;
+    margin-right: 6px;
+    margin-left: 6px;
     margin-bottom: 4px;
     margin-top: 4px;
     text-decoration: none;
     color:rgb(240, 240, 240);
 }
 .active {
-    color: #080808;
+    color: #000000;
     text-decoration: double; 
 }
 a {
@@ -147,6 +147,8 @@ a {
     text-align: center;
     display: inline-block;
 }
+
+/* w3schools gallery tutorial helped me with my image/gallery code */
 #gallery {
      border: 1px solid rgb(0, 0, 0);
 }    
@@ -405,11 +407,10 @@ html {
 /* ipads, tablets */
 @media screen and (max-width: 768px) {
     #main-menu li {
-        font-size: 70%;
+        font-size: 75%;
         letter-spacing: 1px;
     }
 }
-
 
 @media screen and (max-width: 500px) {
     p {
@@ -428,17 +429,14 @@ html {
         font-size: 95%;
     }
     li a {
-            display: block;
-            text-align: justify;
+        display: block;
+        text-align: justify;
     }
     nav ul {
         margin-right: 3px;
         margin-left: 3px;
         margin-bottom: 5px;
-    }
-    .contact-link {
-        float: left;
-        background-color: #067a23;
+    
     }
     #camera-equipment {
         height: 250px;

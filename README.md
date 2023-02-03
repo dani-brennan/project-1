@@ -4,9 +4,12 @@ Ceamara is a site that provides information on photography lessons. They are bas
 <img src="assets/images/screen-sizes.PNG">
 
 <h2>Target Audience</h2>
-<p>People who love photography and want to learn more from an experienced photographer.
+<p>People who love photography either as a hobby or career and want to learn more from an experienced photographer. 
 </p>
 
+<h2>Languages Used</h2>
+<h3>HTML</h3>
+<h3>CSS</h3>
 <h2>Wireframes</h2>
 <h3>Home Page</h3>
 <img src="assets/images/home-wireframe.PNG">
@@ -60,15 +63,20 @@ Ceamara is a site that provides information on photography lessons. They are bas
 <p>competitions.html - - No errors were found after passing code through W3C Validator.</p>
 <p>contact.html - - No errors were found after passing code through W3C Validator.</p>
 
-<h4>CSS</h4>
+<h2>Testing</h2>
+<p>I tested that this website works on Chrome, Microsoft Edge, Safari and Firefox.
+<p>I tested the contact form to ensure required fields must be filled out inorder to submit.</p>
+<p>I tested on different screen sizes and confirm it is responsive and looks good.</p>
+<h3>CSS</h3>
 <p>No errors were found after passing code through W3C Validator.</p>
 
 <h3>Lighthouse Testing</h3>
 <img src="assets/images/lighthouse-report.PNG"></image>
 <p>After testing the website I received a warning that the image files were too big so I compressed them which improved the performance rating.</p>
 
-<h2>Unfixed Bugs</h2>
-<p>Unfixed bugs</p>
+
+<h2>Solved bugs</h2>
+<p>After deploying there were several images that were not showing. Updating the image links to a relative path fixed the problem.</p>
 
 <h2>Deployment</h2>
 <p>I deployed this site to GitHub pages. The steps to deploy are:</p>
@@ -76,7 +84,7 @@ Ceamara is a site that provides information on photography lessons. They are bas
 <li>In the GitHub repository, navigate to the Settings tab</li>
 <li>From the source section drop-down menu, select the Master Branch</li>
 <li>Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.</li> </ul>
-<p>The live link can be found here:</p>
+<p>The live link can be found here: https://dani-brennan.github.io/project-1/index.html</p>
 
 <h2>Credits</h2>
 <h3>Media</h3>
