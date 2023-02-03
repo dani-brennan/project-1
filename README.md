@@ -99,6 +99,10 @@ This website provides information on photography lessons offered by Ceamara. The
 
 <h2>Solved bugs</h2>
 <p>After deploying there were several images that were not showing. Updating the image links to a relative path fixed the problem.</p>
+<p>ID clashed with competitions section ID on competitions page which caused the text to be centered in the drop down menu on the contact form page.
+</p>
+<img src="assets/images/competitions-error.PNG">
+<img src="assets/images/competition-error-code.PNG">
 
 <h2>Deployment</h2>
 <p>I deployed this site to GitHub pages. The steps to deploy are:</p>
