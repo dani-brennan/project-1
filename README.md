@@ -30,19 +30,28 @@ Ceamara is a site that provides information on photography lessons. They are bas
 <h3>Existing Features</h3>
 <h4>Navigation</h4>
 <p>The navigation bar contains links to the home, lessons, competitions and contact page. The navigation will be the same on all pages so that the site is easy to navigate.</p>
+<img src="assets/images/navigation-screenshot.PNG">
 <h4>About Us</h4>
 <p>The about us section on the home page gives a brief description of the company and when it was created.</p>
+<img src="assets/images/about-screenshot.PNG">
 <h4>Portfolio</h4>
 <p>This section shows a small gallery of images taken by the different photographers in order to showcase their talents.</p>
+<img src="assets/images/portfolio-screenshot.PNG">
 <h4>Competitions</h4>
+<img src="assets/images/competition-screenshot.PNG">
 <p>This page allows users to enter into the photography competition hosted by Ceamara.</p>
+<img src="assets/images/competition-form-screenshot.PNG">
 <h4>Lessons</h4>
 <p>This section gives details on the lessons offered by Ceamara. It provides information on who the lessons are aimed towards, lesson pricing and class sizes.</p>
+<img src="assets/images/lessons-screenshot.PNG">
 <h4>Contact Us</h4>
 <p>This page allows the user to enter in their details and query. It also has contact details such as phone, email and location. The form allows users to specify their query into options such as lessons, competitions, renting equipment and other.</p>
+<img src="assets/images/contact-screenshot.PNG">
+<p>There is also a google maps section which shows the user where Ceamara is located.</p>
+<img src="assets/images/map-screenshot.PNG">
 <h4>Footer</p>
 <p>The footer contains the businesses social media links and it is the same on every page.</p>
-
+<img src="assets/images/footer-screenshot.PNG">
 <h2>Testing</h2>
 <h3>Validator Testing</h3>
 <h4>HTML</h4>
@@ -99,11 +108,11 @@ Ceamara is a site that provides information on photography lessons. They are bas
 Sourced from: https://fontawesome.com/
 
 <h4>Code</h4>
-Image gallery help from: https://www.w3schools.com/css/css_image_gallery.asp
+Image gallery tutorial from: https://www.w3schools.com/css/css_image_gallery.asp
 
 <h4>Screen previews</h4>
 Created using https://ui.dev/amiresponsive?
 
-
-
+<h4>Wireframes</h4>
+Created with https://balsamiq.com/wireframes/
 </ul>
