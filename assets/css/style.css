@@ -407,7 +407,7 @@ html {
 /* ipads, tablets */
 @media screen and (max-width: 768px) {
     #main-menu li {
-        font-size: 75%;
+        font-size: 85%;
         letter-spacing: 1px;
     }
 }
@@ -426,15 +426,18 @@ html {
         font-size: 95%;
     }
     #main-menu {
-        font-size: 95%;
+        display: block;
+    }
+    #main-menu li {
+        font-size: 60%;
     }
     li a {
         display: block;
         text-align: justify;
     }
     nav ul {
-        margin-right: 3px;
-        margin-left: 3px;
+        margin-right: 1px;
+        margin-left: 1px;
         margin-bottom: 5px;
     
     }
@@ -593,12 +596,15 @@ html {
 }
 
 @media screen and (max-width: 320px) {
-    p {font-size: 90%
+    p {font-size: 90%;
     }
     #contact-form {
         max-width: 300px;
     }
     #studio img {
         max-width: 300px;
+    }
+    #main-menu {
+        display: block;
     }
 }
