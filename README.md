@@ -55,25 +55,24 @@ Ceamara is a site that provides information on photography lessons. They are bas
 <h4>Footer</p>
 <p>The footer contains the businesses social media links and it is the same on every page.</p>
 <img src="assets/images/footer-screenshot.PNG">
+
 <h2>Testing</h2>
+<p>I tested that this website works on Chrome, Microsoft Edge, Safari and Firefox.
+<p>I tested the contact form to ensure required fields must be filled out in order to submit.</p>
+<p>I tested on different screen sizes and confirm it is responsive and looks good.</p>
+
 <h3>Validator Testing</h3>
 <h4>HTML</h4>
 <p>index.html - No errors were found after passing code through W3C Validator.</p>
 <p>lessons.html - - No errors were found after passing code through W3C Validator.</p>
 <p>competitions.html - - No errors were found after passing code through W3C Validator.</p>
 <p>contact.html - - No errors were found after passing code through W3C Validator.</p>
-
-<h2>Testing</h2>
-<p>I tested that this website works on Chrome, Microsoft Edge, Safari and Firefox.
-<p>I tested the contact form to ensure required fields must be filled out inorder to submit.</p>
-<p>I tested on different screen sizes and confirm it is responsive and looks good.</p>
 <h3>CSS</h3>
 <p>No errors were found after passing code through W3C Validator.</p>
 
 <h3>Lighthouse Testing</h3>
 <img src="assets/images/lighthouse-report.PNG"></image>
 <p>After testing the website I received a warning that the image files were too big so I compressed them which improved the performance rating.</p>
-
 
 <h2>Solved bugs</h2>
 <p>After deploying there were several images that were not showing. Updating the image links to a relative path fixed the problem.</p>
@@ -88,7 +87,7 @@ Ceamara is a site that provides information on photography lessons. They are bas
 
 <h2>Credits</h2>
 <h3>Media</h3>
-<ul>
+
 <h4>Images</h4>
 <ul>
 <li>https://pixabay.com/photos/camera-lens-photography-flat-4830248/</li>
@@ -110,8 +109,8 @@ Ceamara is a site that provides information on photography lessons. They are bas
 <li>https://pixabay.com/photos/face-cute-happy-man-male-person-2171923/</li>
 <li>https://pixabay.com/photos/man-smile-bold-elegant-male-1690965/</li>
 <li>https://www.pexels.com/photo/professional-photographer-during-photo-shoot-in-studio-3800848/</li>
-</ul
->
+</ul>
+
 <h4>Icons</h4>
 Sourced from: https://fontawesome.com/
 
